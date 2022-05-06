@@ -1,3 +1,4 @@
+- [SiDeBaR](preface.md)
 - [序言](preface.md)
 - [第一部分：数据系统的基石](part-i.md)
   - [第一章：可靠性、可伸缩性、可维护性](ch1.md)
